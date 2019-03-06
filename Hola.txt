@@ -1,4 +1,6 @@
 Hola Mundo!
 Como están?
 
-Esta es una prueba de como aprender a utilizar Git
+Esta es una prueba de como aprender a utilizar Git.
+
+Ahora ya configuramos GitKraken para poder utilizar su interfaz. 
