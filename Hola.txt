@@ -4,3 +4,5 @@ Como están?
 Esta es una prueba de como aprender a utilizar Git.
 
 Ahora ya configuramos GitKraken para poder utilizar su interfaz. 
+
+He hecho unas pruebas el dia 2 de agosto de 2019.
