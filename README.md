@@ -1,3 +1,3 @@
-# Aprendiendo a utilizar Git
+# Aprendiendo a utilizar git
 
 Primeros pasos en Git
