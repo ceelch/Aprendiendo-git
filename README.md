@@ -1,1 +1,3 @@
-Este es un ejemplo de git donde se realiza una prueba. Aprendiendo Git
+# Aprendiendo a utilizar Git
+
+Primeros pasos en Git
